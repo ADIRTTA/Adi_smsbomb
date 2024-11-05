@@ -1,6 +1,6 @@
-hi
+# MY SMS BOMBIMG TOOL
 
-
+# Command of tool
 pkg update
 
 pkg upgrade
