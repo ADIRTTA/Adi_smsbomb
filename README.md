@@ -19,11 +19,14 @@ chmod +x *
 
 python BOX-6T9.py
 
+# Contacts
 
 a paid tool 
 
-for username and pass 
+for username and password
 
 nock me 
 
 telegram : @Adirtta Man 
+
+i will try to give your free!!
