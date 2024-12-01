@@ -17,7 +17,7 @@ cd Adi_smsbomb
 
 chmod +x *
 
-python3 BOMB.py ©or python3 BoMb.py
+python3 BOMB.py (cop)or python3 BoMb.py
 
 # Contacts
 
