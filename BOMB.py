@@ -1,4 +1,4 @@
-
+#বেয়াদব script কি দেখস 📵☢️
 import marshal
 
 # Marshaled bytecode content
