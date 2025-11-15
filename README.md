@@ -11,9 +11,9 @@ pkg install bs4
 
 pkg install git 
 
-git clone https://github.com/ADIRTTA/Adi_smsbomb.git
+git clone https://github.com/BLACK-ZER-0/SmsbomB.git
 
-cd Adi_smsbomb
+cd SmsbomB
 
 chmod +x *
 
